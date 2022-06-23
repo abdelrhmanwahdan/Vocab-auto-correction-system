@@ -36,8 +36,6 @@ Similar systems are used everywhere.
 4. Minimum Edit Distance
     - min edit_distance
 
-# About the data
-
-### Credits:
+# Credits
 
 - NLP specialization by Deeplearning.ai on coursera
