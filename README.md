@@ -2,9 +2,9 @@
 
 ![Auto correct](images/auto-correct.png "Auto correct")
 
-You use autocorrect every day on your cell phone and computer. In this project, you will explore what really goes on behind the scenes. Of course, the model you are about to implement is not identical to the one used in your phone, but it is still quite good. 
+You use autocorrect every day on your cell phone and computer. In this project, you will explore what really goes on behind the scenes. Of course, the model you are about to see is not identical to the one used in your phone, but it is still quite good. 
 
-By project this assignment you will learn how to: 
+By completing this project you will learn how to: 
 
 - Get a word count given a corpus
 - Get a word probability in the corpus 
