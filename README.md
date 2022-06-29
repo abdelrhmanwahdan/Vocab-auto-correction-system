@@ -2,9 +2,9 @@
 
 ![Auto correct](images/auto-correct.png "Auto correct")
 
-You use autocorrect every day on your cell phone and computer. In this assignment, you will explore what really goes on behind the scenes. Of course, the model you are about to implement is not identical to the one used in your phone, but it is still quite good. 
+You use autocorrect every day on your cell phone and computer. In this project, we will explore what really goes on behind the scenes. Of course, the model we are about to implement is not identical to the one used in your phone, but it is still quite good. 
 
-By completing this assignment you will learn how to: 
+By completing this project we will learn how to: 
 
 - Get a word count given a corpus
 - Get a word probability in the corpus 
@@ -36,8 +36,6 @@ Similar systems are used everywhere.
 4. Minimum Edit Distance
     - min edit_distance
 
-# About the data
-
-### Credits:
+# Credits
 
 - NLP specialization by Deeplearning.ai on coursera
